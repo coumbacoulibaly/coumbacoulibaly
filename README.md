@@ -1,5 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/119062221/204101231-d3eb4d1b-d1df-47af-a8e0-a53d61d95c72.png)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/119062221/204101400-f5d86e1b-9004-4e7d-9119-ae2441270047.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Coumba</h1>
+
 
 <h3 align="center">A passionate data analyst from Mali</h3>
 
