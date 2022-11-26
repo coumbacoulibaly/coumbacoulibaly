@@ -1,7 +1,9 @@
-[![MasterHead](https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/119062221/204100312-13414fcf-fabc-4cd7-81d2-44f74dec470d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Coumba</h1>
 <h3 align="center">A passionate data analyst from Mali</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/119062221/204100500-3f921088-d4e0-40bf-aa5f-d9b61e86389d.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coumbacoulibaly&label=Profile%20views&color=0e75b6&style=flat" alt="coumbacoulibaly" /> </p>
