@@ -4,11 +4,10 @@
 
 
 
-
 <h3 align="center">A passionate data analyst from Mali</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/119062221/204144046-5e82fb7d-85d1-4bfc-ac4c-aee87cf00878.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/119062221/204145513-b786a634-c84a-4f86-b2d6-2efbe5bc9517.gif">
 
 
 
