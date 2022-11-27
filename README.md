@@ -1,5 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/119062221/204111918-e1849dfc-9fb8-49c7-aeb5-ed5278da0421.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/119062221/204143150-6627f9af-0a92-4c64-80cc-158b18ee85ff.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Coumba</h1>
+
 
 
 
@@ -7,13 +8,14 @@
 <h3 align="center">A passionate data analyst from Mali</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/119062221/204111789-f9dc4f01-199c-49ef-9b18-ad26700c2785.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/119062221/204144046-5e82fb7d-85d1-4bfc-ac4c-aee87cf00878.gif">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coumbacoulibaly&label=Profile%20views&color=0e75b6&style=flat" alt="coumbacoulibaly" /> </p>
 
 - 🔭 I’m currently working on **Adventure Works Company Analysis**
+
 
 
 - 🌱 I’m currently learning **Python for Data Analysis**
