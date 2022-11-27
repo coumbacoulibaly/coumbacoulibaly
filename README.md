@@ -7,14 +7,13 @@
 <h3 align="center">A passionate data analyst from Mali</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/119062221/204145513-b786a634-c84a-4f86-b2d6-2efbe5bc9517.gif">
+
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coumbacoulibaly&label=Profile%20views&color=0e75b6&style=flat" alt="coumbacoulibaly" /> </p>
 
 - 🔭 I’m currently working on **Adventure Works Company Analysis**
-
 
 
 - 🌱 I’m currently learning **Python for Data Analysis**
