@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/119062221/204143150-6627f9af-0a92-4c64-80cc-158b18ee85ff.gif)](https://rishavchanda.io)
+![MasterHead](https://user-images.githubusercontent.com/119062221/204143150-6627f9af-0a92-4c64-80cc-158b18ee85ff.gif)
 <h1 align="center">Hi 👋, I'm Coumba</h1>
 
 
